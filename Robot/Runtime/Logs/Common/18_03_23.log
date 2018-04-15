@@ -1,0 +1,33 @@
+[ 2018-03-23T16:11:51+08:00 ] ::1 /thinkphp/Public/js/album/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-23T21:07:43+08:00 ] ::1 /thinkphp/Public/js/album/jquery.min.map
+ERR: 无法加载模块:Public
+
+[ 2018-03-23T21:07:52+08:00 ] ::1 /thinkphp/Public/js/album/jquery.min.map
+ERR: 无法加载模块:Public
+
+[ 2018-03-23T21:07:55+08:00 ] ::1 /thinkphp/Public/js/album/jquery.min.map
+ERR: 无法加载模块:Public
+
+[ 2018-03-23T21:08:35+08:00 ] ::1 /thinkphp/Public/js/album/jquery.min.map
+ERR: 无法加载模块:Public
+
+[ 2018-03-23T21:08:40+08:00 ] ::1 /thinkphp/Public/js/album/jquery.min.map
+ERR: 无法加载模块:Public
+
+[ 2018-03-23T21:17:46+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+ERR: 无法加载模块:Public
+
+[ 2018-03-23T21:17:59+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+ERR: 无法加载模块:Public
+
+[ 2018-03-23T21:18:22+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+ERR: 无法加载模块:Public
+
+[ 2018-03-23T21:18:54+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+ERR: 无法加载模块:Public
+

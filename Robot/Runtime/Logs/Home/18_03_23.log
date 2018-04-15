@@ -1,0 +1,38 @@
+[ 2018-03-23T19:28:59+08:00 ] 127.0.0.1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\thinkphp\ThinkPHP\Common\functions.php 第 1272 行.
+NOTIC: [8] Undefined variable: json_string D:\phpStudy\WWW\thinkphp\Robot\Home\Controller\UserController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `robot_institute_overview` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `robot_institute_overview`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `robot_teaching_work`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `robot_enroll_student`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `robot_institute_show`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_learning_resources` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `robot_learning_resources`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043568s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043622s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000746s ]
+
+[ 2018-03-23T22:02:04+08:00 ] ::1 /thinkphp/Home/Home/index123
+ERR: 非法操作:index123
+
+[ 2018-03-23T22:02:42+08:00 ] ::1 /thinkphp/Home/Home/index132
+ERR: 非法操作:index132
+

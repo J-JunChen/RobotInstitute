@@ -1,0 +1,294 @@
+[ 2018-02-01T08:51:31+08:00 ] ::1 /thinkphp/form-components.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020632s ]
+ERR: 无法加载模块:Form-components
+
+[ 2018-02-01T08:53:47+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:53:47+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:53:48+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:53:48+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:53:53+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:53:53+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:53:53+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:53:53+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:53:57+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:53:57+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:53:57+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:53:57+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:00+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:00+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:01+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:01+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:05+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:05+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:05+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001714s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:05+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:10+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:10+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:10+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:10+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:55+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004176s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:55+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:55+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:54:55+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000970s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:55:18+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:55:18+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:55:18+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T08:55:18+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T11:17:18+08:00 ] ::1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T11:17:18+08:00 ] ::1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T11:17:18+08:00 ] ::1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T11:17:18+08:00 ] ::1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T11:17:23+08:00 ] ::1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T11:17:23+08:00 ] ::1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T11:17:23+08:00 ] ::1 /thinkphp/Public/js/Admin/plugins/pace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T11:17:23+08:00 ] ::1 /thinkphp/Public/js/Admin/plugins/chart.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T15:24:39+08:00 ] ::1 /thinkphp/services
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+ERR: 无法加载模块:Services
+
+[ 2018-02-01T15:25:05+08:00 ] ::1 /thinkphp/Public/css/fonts/Flaticon.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T15:25:05+08:00 ] ::1 /thinkphp/Public/css/fonts/fontawesome-webfont.woff2?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T15:25:05+08:00 ] ::1 /thinkphp/Public/css/images/bg/footer-bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T15:25:05+08:00 ] ::1 /thinkphp/Public/css/images/bg/bg2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T15:25:05+08:00 ] ::1 /thinkphp/Public/css/fonts/fontawesome-webfont.woff?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T15:25:05+08:00 ] ::1 /thinkphp/Public/css/fonts/Flaticon.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-01T15:25:05+08:00 ] ::1 /thinkphp/Public/css/fonts/fontawesome-webfont.ttf?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+ERR: 无法加载模块:Public
+

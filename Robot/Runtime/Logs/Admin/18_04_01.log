@@ -1,0 +1,868 @@
+[ 2018-04-01T23:20:16+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/add_content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001117s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0031s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0032s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0034s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007937s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000650s ]
+
+[ 2018-04-01T23:20:16+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/summernote
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008539s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000602s ]
+
+[ 2018-04-01T23:20:18+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/editable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2018-04-01T23:20:29+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/add_content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0035s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0038s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0034s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005656s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2018-04-01T23:20:29+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/summernote
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005586s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005647s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2018-04-01T23:20:47+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/add_content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0036s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0048s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0046s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006366s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2018-04-01T23:20:47+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/summernote
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009160s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009226s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000682s ]
+
+[ 2018-04-01T23:21:49+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/editable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001027s ]
+
+[ 2018-04-01T23:21:52+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/add_content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0036s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0036s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0035s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006935s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2018-04-01T23:21:52+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/summernote
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001257s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005830s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005887s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2018-04-01T23:21:53+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/editable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2018-04-01T23:22:39+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/add_content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0034s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0034s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0051s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007332s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007380s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000903s ]
+
+[ 2018-04-01T23:22:39+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/summernote
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007301s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007382s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000668s ]
+
+[ 2018-04-01T23:23:21+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/add_content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001383s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0038s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0040s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0037s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0006s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006479s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006538s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000492s ]
+
+[ 2018-04-01T23:23:21+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/summernote
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007427s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007473s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2018-04-01T23:23:27+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/editable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000507s ]
+
+[ 2018-04-01T23:23:31+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/add_content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0042s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0032s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0032s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006687s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2018-04-01T23:23:31+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/summernote
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005902s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000509s ]
+
+[ 2018-04-01T23:24:19+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/add_content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001282s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0031s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0032s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0033s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005726s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2018-04-01T23:24:19+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/summernote
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005995s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006056s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2018-04-01T23:24:24+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/editable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000479s ]
+
+[ 2018-04-01T23:24:46+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/add_content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0034s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0036s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0034s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0004s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0004s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0004s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006353s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2018-04-01T23:24:46+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/summernote
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007955s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+
+[ 2018-04-01T23:24:48+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/editable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2018-04-01T23:25:50+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/add_content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0050s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0071s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0049s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0005s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0005s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0005s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0004s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010620s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010700s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000771s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000886s ]
+
+[ 2018-04-01T23:25:50+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/summernote
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007994s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008083s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2018-04-01T23:28:03+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/add_content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0033s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0039s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0033s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0006s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0005s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.067569s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.067625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2018-04-01T23:28:04+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/summernote
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007080s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007151s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000729s ]
+
+[ 2018-04-01T23:28:05+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/editable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2018-04-01T23:29:18+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/add_content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001342s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0042s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0036s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0060s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005806s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005849s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2018-04-01T23:29:18+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/summernote
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007482s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007542s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2018-04-01T23:29:20+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/editable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2018-04-01T23:29:31+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/add_content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0032s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0033s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0034s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006159s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006219s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000488s ]
+
+[ 2018-04-01T23:29:31+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/summernote
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007179s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007230s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000509s ]
+
+[ 2018-04-01T23:29:33+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/editable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2018-04-01T23:29:38+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/submit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002015s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show_current_events` [ RunTime:0.0094s ]
+SQL: INSERT INTO `robot_institute_show_current_events` (`title`,`content`,`date`) VALUES ('1','<p>asdas</p>','1522596578') [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000788s ]
+
+[ 2018-04-01T23:29:39+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/editable_content?title=%E5%AD%A6%E9%99%A2%E6%97%B6%E4%BA%8B&content=InstituteShowCurrentEvents
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006670s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006728s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000479s ]
+
+[ 2018-04-01T23:29:40+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/editable_content_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show_current_events` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `robot_institute_show_current_events` ORDER BY id desc  [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029107s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029167s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2018-04-01T23:29:42+08:00 ] ::1 /thinkphp/index.php/Admin/Editor/review_content?id=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show_current_events` [ RunTime:0.0044s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\thinkphp\Robot\Admin\Controller\EditorController.class.php 第 131 行.
+SQL: SELECT * FROM `robot_institute_show_current_events` WHERE ( id=4 )  [ RunTime:0.0003s ]
+ERR: 模板不存在:./Robot/Admin/View/Editor/review_content.php
+

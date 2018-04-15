@@ -1,0 +1,594 @@
+[ 2018-03-28T20:59:17+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T20:59:29+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:07:55+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:18:32+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:18:32+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:18:32+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.woff2?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:18:32+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:18:32+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.woff?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:18:32+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.ttf?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:18:38+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:18:39+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:18:40+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.woff2?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:18:40+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:18:40+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.woff?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:18:40+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.ttf?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:09+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:09+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:09+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.woff2?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:09+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:09+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.woff?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:10+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.ttf?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:14+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:14+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:14+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.woff2?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:14+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:14+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.woff?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001910s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:14+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.ttf?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:17+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:17+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:17+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:17+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.woff2?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:17+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.woff?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:19:17+08:00 ] 127.0.0.1 /thinkphp/Public/fonts/fontawesome-webfont.ttf?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:20:48+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:20:48+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:20:48+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/fontawesome-webfont.woff2?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:20:48+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:20:49+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/fontawesome-webfont.woff?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:20:49+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/fontawesome-webfont.ttf?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:20:52+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:20:52+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:20:52+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:20:52+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/fontawesome-webfont.woff2?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:20:52+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/fontawesome-webfont.woff?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:20:53+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/fontawesome-webfont.ttf?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:21:12+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:21:12+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:21:12+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:21:21+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:21:21+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:21:21+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003021s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:21:45+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:21:45+08:00 ] 127.0.0.1 /thinkphp/Public/Admin/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:23:01+08:00 ] 127.0.0.1 /thinkphp/Public/css/Admin/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:24:32+08:00 ] 127.0.0.1 /thinkphp/Public/css/Admin/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:24:54+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:24:56+08:00 ] 127.0.0.1 /thinkphp/Public/css/Admin/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:25:15+08:00 ] 127.0.0.1 /thinkphp/Public/css/Admin/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:25:39+08:00 ] 127.0.0.1 /thinkphp/Public/css/Admin/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:27:04+08:00 ] 127.0.0.1 /thinkphp/Public/js/album/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:27:05+08:00 ] 127.0.0.1 /thinkphp/Public/js/album/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:27:24+08:00 ] 127.0.0.1 /thinkphp/Public/js/album/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:41:09+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/fontawesome-webfont.woff2?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:41:09+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/fontawesome-webfont.woff?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T21:41:09+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/fontawesome-webfont.ttf?v=4.7.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:04:05+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/login_1out.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:04:05+08:00 ] 127.0.0.1 /thinkphp/Public/js/Admin/login_1out.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:16:24+08:00 ] 127.0.0.1 /thinkphp/Public/css/Admin/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:16:24+08:00 ] 127.0.0.1 /thinkphp/Public/css/Admin/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:22:13+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:22:13+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:22:13+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001590s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:22:13+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:22:13+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:22:13+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:22:28+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:22:28+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:22:28+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:22:28+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:22:28+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:22:28+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:34+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001273s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:34+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:34+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:34+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:35+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:35+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:48+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:48+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:48+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:48+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001224s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:48+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:48+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:52+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:52+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:52+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:52+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:53+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-28T22:23:53+08:00 ] 127.0.0.1 /thinkphp/Public/css/fonts/bootstrap/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载模块:Public
+

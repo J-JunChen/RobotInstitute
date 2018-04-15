@@ -1,0 +1,1 @@
+a:6:{i:0;s:8:"group_id";i:1;s:10:"catalog_id";i:2;s:7:"catalog";i:3;s:13:"catalog_table";s:3:"_pk";s:10:"catalog_id";s:5:"_type";a:4:{s:8:"group_id";s:6:"int(5)";s:10:"catalog_id";s:6:"int(5)";s:7:"catalog";s:11:"varchar(50)";s:13:"catalog_table";s:11:"varchar(50)";}}

@@ -1,0 +1,231 @@
+[ 2018-03-19T19:00:47+08:00 ] 127.0.0.1 /thinkphp/Admin/Admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016210s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.1571s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0568s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0399s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0769s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\thinkphp\ThinkPHP\Common\functions.php 第 1272 行.
+SQL: SHOW COLUMNS FROM `robot_institute_overview` [ RunTime:0.0532s ]
+SQL: SELECT * FROM `robot_institute_overview`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_learning_resources` [ RunTime:0.0285s ]
+SQL: SELECT * FROM `robot_learning_resources`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_institute_album` [ RunTime:0.0351s ]
+SQL: SELECT * FROM `robot_institute_album`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.013618s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.013688s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.113296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.031205s ]
+INFO: [ app_end ] --END-- [ RunTime:0.031282s ]
+
+[ 2018-03-19T19:00:47+08:00 ] 127.0.0.1 /thinkphp/Admin/Admin/robot_index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+SQL: SHOW COLUMNS FROM `robot_index` [ RunTime:0.0332s ]
+SQL: SELECT * FROM `robot_index`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `robot_index`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `robot_index`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `robot_index`  [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084457s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001194s ]
+
+[ 2018-03-19T19:00:47+08:00 ] 127.0.0.1 /thinkphp/Admin/Admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006870s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0086s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0101s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0080s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0004s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0004s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0003s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0004s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\thinkphp\ThinkPHP\Common\functions.php 第 1272 行.
+SQL: SHOW COLUMNS FROM `robot_institute_overview` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `robot_institute_overview`  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `robot_learning_resources` [ RunTime:0.0083s ]
+SQL: SELECT * FROM `robot_learning_resources`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_institute_album` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `robot_institute_album`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000245s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014591s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001126s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001190s ]
+
+[ 2018-03-19T19:01:27+08:00 ] 127.0.0.1 /thinkphp/Admin/Admin/institute_album?title=%E8%8D%A3%E8%AA%89%E6%A6%9C&content=InstituteHonorAlbum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041208s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041281s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000609s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001045s ]
+
+[ 2018-03-19T19:01:27+08:00 ] 127.0.0.1 /thinkphp/Admin/Admin/institute_album?title=%E8%8D%A3%E8%AA%89%E6%A6%9C&content=InstituteHonorAlbum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002298s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011891s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002049s ]
+
+[ 2018-03-19T19:01:27+08:00 ] 127.0.0.1 /thinkphp/Admin/Admin/institute_album_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+SQL: SHOW COLUMNS FROM `robot_institute_honor_album` [ RunTime:0.0473s ]
+SQL: SELECT * FROM `robot_institute_honor_album` ORDER BY id desc  [ RunTime:0.0067s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.083540s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083580s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000591s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2018-03-19T19:01:29+08:00 ] 127.0.0.1 /thinkphp/Admin/Admin/institute_album?title=%E5%AD%A6%E9%99%A2%E7%9B%B8%E5%86%8C&content=InstitutePhotoAlbum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000934s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007361s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007409s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000586s ]
+
+[ 2018-03-19T19:01:29+08:00 ] 127.0.0.1 /thinkphp/Admin/Admin/institute_album?title=%E5%AD%A6%E9%99%A2%E7%9B%B8%E5%86%8C&content=InstitutePhotoAlbum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010100s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010176s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001478s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003829s ]
+
+[ 2018-03-19T19:01:29+08:00 ] 127.0.0.1 /thinkphp/Admin/Admin/institute_album_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+SQL: SHOW COLUMNS FROM `robot_institute_photo_album` [ RunTime:0.0680s ]
+SQL: SELECT * FROM `robot_institute_photo_album` ORDER BY id desc  [ RunTime:0.0121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.101380s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.101446s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001702s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001779s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001126s ]
+

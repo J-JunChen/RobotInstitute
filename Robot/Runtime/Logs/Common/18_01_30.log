@@ -1,0 +1,66 @@
+[ 2018-01-30T16:13:41+08:00 ] ::1 /thinkphp/css/robot_index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:Css
+
+[ 2018-01-30T16:13:41+08:00 ] ::1 /thinkphp/image/logo4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载模块:Image
+
+[ 2018-01-30T16:13:41+08:00 ] ::1 /thinkphp/image/dgut-building1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载模块:Image
+
+[ 2018-01-30T16:13:41+08:00 ] ::1 /thinkphp/image/dgut-door.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 无法加载模块:Image
+
+[ 2018-01-30T16:17:00+08:00 ] ::1 /thinkphp/image/dgut-building1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 无法加载模块:Image
+
+[ 2018-01-30T16:17:00+08:00 ] ::1 /thinkphp/image/logo4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+ERR: 无法加载模块:Image
+
+[ 2018-01-30T16:17:00+08:00 ] ::1 /thinkphp/image/dgut-door.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+ERR: 无法加载模块:Image
+
+[ 2018-01-30T16:28:37+08:00 ] ::1 /thinkphp/institute_information
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载模块:Institute_information
+
+[ 2018-01-30T16:32:29+08:00 ] ::1 /thinkphp/institute_information.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+ERR: 无法加载模块:Institute_information
+
+[ 2018-01-30T16:34:54+08:00 ] ::1 /thinkphp/institute_information.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Institute_information
+
+[ 2018-01-30T16:36:59+08:00 ] ::1 /thinkphp/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:1
+

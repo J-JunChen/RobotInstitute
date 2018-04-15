@@ -1,0 +1,24 @@
+[ 2018-02-03T14:39:41+08:00 ] ::1 /thinkphp/Public/images/20180203/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171029134538.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-03T14:39:55+08:00 ] ::1 /thinkphp/Public/images/20180203/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171029134538.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-03T14:40:07+08:00 ] ::1 /thinkphp/Public/images/20180203/%E6%9C%AA%E6%A0%87%E9%A2%98-12jpg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+ERR: 无法加载模块:Public
+
+[ 2018-02-03T19:34:09+08:00 ] ::1 /thinkphp/Public/images/Home_index.add_picture.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+ERR: 无法加载模块:Public
+

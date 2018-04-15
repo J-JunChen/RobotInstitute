@@ -1,0 +1,2226 @@
+[ 2018-03-27T09:08:00+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:08:44+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:09:54+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:10:02+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:10:26+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:13:34+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:16:06+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:16:24+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:18:23+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:19:11+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:20:56+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:24:36+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:24:55+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:27:03+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:27:21+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:28:08+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:32:23+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:37:27+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:39:35+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:39:58+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:52:49+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002201s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T09:53:26+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:01:09+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:01:11+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:08:58+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:09:24+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:10:20+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:11:34+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:14:17+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:15:56+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:17:47+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:17:48+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:17:51+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:21:52+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:21:53+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:21:57+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:22:07+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:22:08+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001048s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:22:14+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:23:16+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:23:17+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:23:19+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T14:31:22+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:19:16+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:19:17+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:41:43+08:00 ] 127.0.0.1 /thinkphp/Publiccss/Home/css/summernote_home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-03-27T15:41:48+08:00 ] 127.0.0.1 /thinkphp/Publiccss/Home/css/summernote_home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-03-27T15:41:54+08:00 ] 127.0.0.1 /thinkphp/Publiccss/Home/css/summernote_home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-03-27T15:41:59+08:00 ] 127.0.0.1 /thinkphp/Publiccss/Home/css/summernote_home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-03-27T15:42:04+08:00 ] 127.0.0.1 /thinkphp/Publiccss/Home/css/summernote_home.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2018-03-27T15:42:27+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:42:27+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:42:57+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:42:57+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:42:59+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:42:59+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:43:08+08:00 ] ::1 /thinkphp/Public/css/Home/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:43:08+08:00 ] ::1 /thinkphp/Public/css/Home/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:43:10+08:00 ] ::1 /thinkphp/Public/css/Home/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:43:10+08:00 ] ::1 /thinkphp/Public/css/Home/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:44:38+08:00 ] ::1 /thinkphp/Public/css/Home/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:44:38+08:00 ] ::1 /thinkphp/Public/css/Home/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:46:56+08:00 ] ::1 /thinkphp/Public/css/Home/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:46:56+08:00 ] ::1 /thinkphp/Public/css/Home/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:47:29+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:47:29+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:47:45+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:47:45+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:49:11+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:49:12+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:57:39+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/css/summernote_view.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:57:39+08:00 ] 127.0.0.1 /thinkphp/Public/js/summernote_home.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:57:40+08:00 ] 127.0.0.1 /thinkphp/Public/js/summernote_home.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:57:52+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/css/summernote_view.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:58:07+08:00 ] 127.0.0.1 /thinkphp/Public/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:58:07+08:00 ] 127.0.0.1 /thinkphp/Public/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:58:42+08:00 ] 127.0.0.1 /thinkphp/Public/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T15:58:42+08:00 ] 127.0.0.1 /thinkphp/Public/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:15:50+08:00 ] 127.0.0.1 /thinkphp/Public/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:15:50+08:00 ] 127.0.0.1 /thinkphp/Public/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:17:49+08:00 ] 127.0.0.1 /thinkphp/Public/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:17:49+08:00 ] 127.0.0.1 /thinkphp/Public/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:18:43+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:21:46+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:21:46+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001360s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:21:46+08:00 ] ::1 /thinkphp/Public/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:21:47+08:00 ] ::1 /thinkphp/Public/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:22:01+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:22:01+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:22:01+08:00 ] ::1 /thinkphp/Public/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:22:01+08:00 ] ::1 /thinkphp/Public/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:22:05+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:22:05+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:22:05+08:00 ] ::1 /thinkphp/Public/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:22:05+08:00 ] ::1 /thinkphp/Public/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:23:09+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:23:09+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:23:10+08:00 ] ::1 /thinkphp/Public/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:23:10+08:00 ] ::1 /thinkphp/Public/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:23:41+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:23:41+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:23:58+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:23:58+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:24:14+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:24:14+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:24:24+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:24:24+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:24:25+08:00 ] ::1 /thinkphp/Public/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:24:25+08:00 ] ::1 /thinkphp/Public/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:24:35+08:00 ] 127.0.0.1 /thinkphp/Public/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:24:35+08:00 ] 127.0.0.1 /thinkphp/Public/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:33:17+08:00 ] ::1 /thinkphp/Public/images/Editable/20180327/6f5114e617ab62c35e95e28a466a12d1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:33:18+08:00 ] ::1 /thinkphp/Public/images/Editable/20180327/6f5114e617ab62c35e95e28a466a12d1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:33:19+08:00 ] ::1 /thinkphp/Public/images/Editable/20180327/6f5114e617ab62c35e95e28a466a12d1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:33:27+08:00 ] ::1 /thinkphp/Public/images/Editable/20180327/6f5114e617ab62c35e95e28a466a12d1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:33:30+08:00 ] ::1 /thinkphp/Public/images/Editable/20180327/6f5114e617ab62c35e95e28a466a12d1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:33:39+08:00 ] ::1 /thinkphp/Public/images/Editable/20180327/6f5114e617ab62c35e95e28a466a12d1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:33:42+08:00 ] ::1 /thinkphp/Public/images/Editable/20180327/6f5114e617ab62c35e95e28a466a12d1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:41:03+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:41:03+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:41:03+08:00 ] ::1 /thinkphp/Public/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:41:03+08:00 ] ::1 /thinkphp/Public/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:41:11+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:41:11+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:41:32+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:41:47+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:41:47+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:41:51+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:41:51+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:42:24+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:42:24+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:42:24+08:00 ] ::1 /thinkphp/Public/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:42:24+08:00 ] ::1 /thinkphp/Public/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:44:12+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:44:12+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:45:01+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:45:01+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:45:03+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:45:03+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:45:08+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:45:08+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:45:11+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:45:11+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:45:42+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:46:16+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:48:21+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:49:20+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:49:46+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:49:46+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:50:44+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:50:44+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001150s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:50:54+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002022s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:50:54+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:51:02+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:51:02+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:51:16+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:51:16+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001148s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:11+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:11+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:21+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:21+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:27+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:27+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:29+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:29+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:35+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:35+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:37+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:38+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:39+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:39+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001229s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:40+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:53:40+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:54:00+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:54:27+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001259s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:54:58+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:54:58+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:56:13+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:56:13+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:58:01+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:58:37+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T16:58:38+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:05:25+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:05:41+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:05:44+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:05:44+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:05:44+08:00 ] ::1 /thinkphp/Public/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:05:44+08:00 ] ::1 /thinkphp/Public/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:09:01+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:10:57+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:11:16+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:12:24+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:12:24+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:12:24+08:00 ] ::1 /thinkphp/Public/css/font/summernote.woff?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:12:24+08:00 ] ::1 /thinkphp/Public/css/font/summernote.ttf?e557617934c52ea068954af79ed7c221
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:12:59+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:12:59+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:14:25+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:14:25+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:14:48+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:14:48+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001020s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:15:12+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:15:12+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:15:46+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:15:46+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:16:03+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:16:03+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:16:05+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:16:05+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:16:07+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001272s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:16:07+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:17:14+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:17:14+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:19:04+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:19:04+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:19:13+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:19:13+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:19:18+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:19:18+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:19:54+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:19:54+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:20:03+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:20:03+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:20:03+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:20:03+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:20:16+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:20:16+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:20:40+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:20:40+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001907s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:20:45+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:20:45+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004460s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:20:52+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:20:52+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:20:55+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:20:56+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:21:13+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:21:13+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:22:13+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:22:13+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003414s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:22:44+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:22:44+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:23:28+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:23:28+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:23:37+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:23:37+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:23:50+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:23:57+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:24:30+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:24:33+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:24:33+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:24:41+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001434s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:25:41+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:26:04+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:26:26+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:26:54+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:30:26+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:30:27+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:30:31+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:30:32+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001244s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:30:36+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/jquery/jquery.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001251s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T17:33:53+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:26:24+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:26:55+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:30:20+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:30:20+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:31:22+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:31:22+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:31:48+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:31:48+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:33:06+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:33:06+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:34:27+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:34:27+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:34:32+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:34:32+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:35:02+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002969s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:35:02+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:35:11+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:35:11+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:35:22+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:35:22+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:35:25+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:35:25+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002362s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:35:49+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:35:49+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:36:15+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:36:21+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:36:35+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:36:35+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:36:44+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:36:44+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:37:12+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:37:12+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:37:28+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:37:28+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:37:43+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:37:43+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:37:52+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:37:53+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:38:23+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:38:24+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:38:50+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:38:55+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:38:55+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:38:57+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:38:57+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:38:59+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:38:59+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:39:55+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:41:39+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:41:40+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:42:35+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:43:02+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:43:02+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000959s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:43:07+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:43:07+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:44:20+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:44:20+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:44:30+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:44:30+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:44:44+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:44:47+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:44:53+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:45:24+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:52:00+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:52:01+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:52:53+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:52:53+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:53:48+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:54:44+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:55:36+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:55:37+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:55:48+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:55:48+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:56:19+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:56:19+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:57:25+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:57:36+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:57:36+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001011s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:58:12+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:58:26+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:58:26+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:58:46+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:58:46+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:59:07+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T19:59:08+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:01:10+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:01:10+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:01:29+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:01:29+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:01:50+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:01:50+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:01:56+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:01:56+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:02:12+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:02:12+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:02:33+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:03:09+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:03:09+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:03:53+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:04:00+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:04:00+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:04:14+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:04:14+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:04:33+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:04:33+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:05:32+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:05:52+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:05:58+08:00 ] ::1 /thinkphp/Public/js/Home/vendors/smoothscroll/SmoothScroll.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:05:58+08:00 ] ::1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-27T20:33:51+08:00 ] 127.0.0.1 /thinkphp/Public/css/Home/vendors/bootstrap4/bootstrap-grid.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+ERR: 无法加载模块:Public
+

@@ -1,0 +1,32 @@
+[ 2018-03-19T22:11:38+08:00 ] ::1 /thinkphp/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001199s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\thinkphp\ThinkPHP\Common\functions.php 第 1272 行.
+NOTIC: [8] Undefined variable: json_string D:\phpStudy\WWW\thinkphp\Robot\Home\Controller\UserController.class.php 第 14 行.
+SQL: SHOW COLUMNS FROM `robot_institute_overview` [ RunTime:0.0381s ]
+SQL: SELECT * FROM `robot_institute_overview`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `robot_teaching_work`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `robot_enroll_student`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0211s ]
+SQL: SELECT * FROM `robot_institute_show`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_learning_resources` [ RunTime:0.0173s ]
+SQL: SELECT * FROM `robot_learning_resources`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.088098s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.088183s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.019758s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019801s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008162s ]
+

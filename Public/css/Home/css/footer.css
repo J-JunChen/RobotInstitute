@@ -1,0 +1,52 @@
+#side_float{
+    position:fixed;
+    bottom:18px;
+    right:12px;
+    z-index: 11
+}
+#side_float a{
+    text-align:center;
+    text-decoration:none;
+    color:#fff;
+    display:block;
+    width:50px;
+    /*使用CSS3中的transition属性给跳转链接中的文字添加渐变效果*/
+    -moz-transition:color1s;
+    -webkit-transition:color1s;
+    -o-transition:color1s;
+}
+/*#side_float a:hover{
+    color:#000011;
+}*/
+
+#side_float button{
+    background-color:#f39c12;
+    z-index: -100;
+    border: 1px solid #cccccc;
+    border-radius:6px;
+    display:block;
+    height:50px;
+    width:50px;
+    margin-bottom:5px;
+    /*使用CSS3中的transition属性给<span>标签背景颜色添加渐变效果*/
+    -moz-transition:background1s;
+    -webkit-transition:background1s;
+    -o-transition:background1s;
+	
+	/*配合margin：auto; 可垂直居中*/
+     display: flex;  
+     display: -webkit-flex;
+     text-align: center;
+}
+
+#side_float a span i, button a{
+	margin: auto;
+}
+
+#feedback_infor,#read_file_description{
+    /*size: 50px;*/
+    line-height: 20px;
+    /*font-size: 10px;*/
+    min-height: 100px;
+}
+

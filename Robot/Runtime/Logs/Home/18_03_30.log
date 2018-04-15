@@ -1,0 +1,127 @@
+[ 2018-03-30T14:57:55+08:00 ] 127.0.0.1 /thinkphp/Home/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\thinkphp\ThinkPHP\Common\functions.php 第 1272 行.
+SQL: SHOW COLUMNS FROM `robot_institute_overview` [ RunTime:0.0795s ]
+SQL: SELECT * FROM `robot_institute_overview`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0365s ]
+SQL: SELECT * FROM `robot_teaching_work`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0176s ]
+SQL: SELECT * FROM `robot_enroll_student`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0330s ]
+SQL: SELECT * FROM `robot_institute_show`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_learning_resources` [ RunTime:0.0286s ]
+SQL: SELECT * FROM `robot_learning_resources`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0430s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0032s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0315s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0031s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0035s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0004s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0005s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0008s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0009s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0011s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\thinkphp\Robot\Home\Controller\HomeController.class.php 第 134 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\thinkphp\Robot\Home\Controller\HomeController.class.php 第 134 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\thinkphp\Robot\Home\Controller\HomeController.class.php 第 134 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\thinkphp\Robot\Home\Controller\HomeController.class.php 第 134 行.
+SQL: SHOW COLUMNS FROM `robot_teaching_work_teaching_development` [ RunTime:0.0512s ]
+SQL: SELECT * FROM `robot_teaching_work_teaching_development` ORDER BY date desc  [ RunTime:0.0312s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work_major_introduction` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `robot_teaching_work_major_introduction` ORDER BY date desc  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work_teaching_outline` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `robot_teaching_work_teaching_outline` ORDER BY date desc  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work_major_competition` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `robot_teaching_work_major_competition` ORDER BY date desc  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work_project_design` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `robot_teaching_work_project_design` ORDER BY date desc  [ RunTime:0.0003s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\thinkphp\Robot\Home\Controller\HomeController.class.php 第 134 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\thinkphp\Robot\Home\Controller\HomeController.class.php 第 134 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\thinkphp\Robot\Home\Controller\HomeController.class.php 第 134 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\thinkphp\Robot\Home\Controller\HomeController.class.php 第 134 行.
+SQL: SHOW COLUMNS FROM `robot_enroll_student_standard` [ RunTime:0.0296s ]
+SQL: SELECT * FROM `robot_enroll_student_standard` ORDER BY date desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student_information` [ RunTime:0.0243s ]
+SQL: SELECT * FROM `robot_enroll_student_information` ORDER BY date desc  [ RunTime:0.0003s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\thinkphp\Robot\Home\Controller\HomeController.class.php 第 134 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\thinkphp\Robot\Home\Controller\HomeController.class.php 第 134 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\thinkphp\Robot\Home\Controller\HomeController.class.php 第 134 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\thinkphp\Robot\Home\Controller\HomeController.class.php 第 134 行.
+SQL: SHOW COLUMNS FROM `robot_institute_show_visit` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `robot_institute_show_visit` ORDER BY date desc  [ RunTime:0.0505s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show_vacation_training` [ RunTime:0.0308s ]
+SQL: SELECT * FROM `robot_institute_show_vacation_training` ORDER BY date desc  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show_competition_awards` [ RunTime:0.0230s ]
+SQL: SELECT * FROM `robot_institute_show_competition_awards` ORDER BY date desc  [ RunTime:0.0491s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+SQL: SHOW COLUMNS FROM `robot_index` [ RunTime:0.0455s ]
+SQL: SELECT * FROM `robot_index` ORDER BY id desc  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_learning_resources_download` [ RunTime:0.0384s ]
+SQL: SELECT * FROM `robot_learning_resources_download` ORDER BY id desc LIMIT 5   [ RunTime:0.0085s ]
+SQL: SHOW COLUMNS FROM `robot_institute_honor_album` [ RunTime:0.0280s ]
+SQL: SELECT * FROM `robot_institute_honor_album` ORDER BY id desc  [ RunTime:0.0089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.248937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.249074s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000627s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000864s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000932s ]
+
+[ 2018-03-30T14:57:59+08:00 ] 127.0.0.1 /thinkphp/Home/Home/assets/img/services/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2018-03-30T14:57:59+08:00 ] 127.0.0.1 /thinkphp/Home/Home/assets/img/services/6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2018-03-30T14:57:59+08:00 ] 127.0.0.1 /thinkphp/Home/Home/assets/img/services/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2018-03-30T14:58:25+08:00 ] 127.0.0.1 /thinkphp/Home/Home/feedback
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000677s ]
+
+[ 2018-03-30T15:32:39+08:00 ] 127.0.0.1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载控制器:User
+
+[ 2018-03-30T16:56:41+08:00 ] 127.0.0.1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+ERR: 无法加载控制器:User
+

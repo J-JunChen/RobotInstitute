@@ -1,0 +1,250 @@
+/* Container used for styling the custom select, the buttom class below adds the
+ * bg gradient, corners, etc. */
+.custom-select {
+	position: relative;
+	display: block;
+}
+
+/* This is the native select, we're making everything but the text invisible so
+ * we can see the button styles in the wrapper */
+.custom-select select {
+	width: 100%;
+	margin: 0;
+	outline: none;
+	padding: .6em .8em .5em .8em;
+
+	/* Prefixed box-sizing rules necessary for older browsers */
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+
+	/* Font size must be 16px to prevent iOS page zoom on focus */
+	font-size: 16px;
+}
+
+
+/* Custom arrow sits on top of the select - could be an image, SVG, icon font,
+ * etc. or the arrow could just baked into the bg image on the select. */
+.custom-select::after {
+	content: " ";
+	position: absolute;
+	top: 50%;
+	right: 1em;
+	z-index: 2;
+	/* These hacks make the select behind the arrow clickable in some browsers */
+	pointer-events: none;
+	display: none;
+}
+
+/* Firefox <= 34 has a false positive on @supports( -moz-appearance: none )
+ * @supports ( mask-type: alpha ) is Firefox 35+
+ */
+@supports (-webkit-appearance: none) or (appearance: none) or ((-moz-appearance: none) and (mask-type: alpha)) {
+
+	/* Show custom arrow */
+	.custom-select::after {
+		display: block;
+	}
+
+	/* Remove select styling */
+	.custom-select select {
+		padding-right: 2em; /* Match-01 */
+		/* inside @supports so that iOS <= 8 display the native arrow */
+		background: none; /* Match-04 */
+		/* inside @supports so that Android <= 4.3 display the native arrow */
+		border: 1px solid transparent; /* Match-05 */
+
+		-webkit-appearance: none;
+		-moz-appearance: none;
+		appearance: none;
+	}
+	.custom-select select:focus {
+		border-color: #aaa; /* Match-03 */
+	}
+}
+
+
+/*select-css-arrow*/
+.custom-select::after {
+	width: 0;
+	height: 0;
+	border-left: 4px solid transparent;
+	border-right: 4px solid transparent;
+	border-top: 7px solid #666;
+	margin-top: -3px;
+}
+
+
+/*select-css-compat*/
+/* Adds Firefox < 35 support */
+/* FIREFOX won't let us hide the native select arrow, so we have to make it wider than needed and clip it via overflow on the parent container. The percentage width is a fallback since FF 4+ supports calc() so we can just add a fixed amount of extra width to push the native arrow out of view. We're applying this hack across all FF versions because all the previous hacks were too fragile and complex. You might want to consider not using this hack and using the native select arrow in FF. Note this makes the menus wider than the select button because they display at the specified width and aren't clipped. Targeting hack via http://browserhacks.com/#hack-758bff81c5c32351b02e10480b5ed48e */
+/* Show only the native arrow */
+@-moz-document url-prefix() {
+	/* Warning: this kills the focus outline style */
+	.custom-select {
+		overflow: hidden;
+	}
+	.custom-select::after {
+		display: block;
+	}
+	/* Make the native select extra wide so the arrow is clipped. 1.5em seems to be enough to safely clip it */
+	.custom-select select {
+		overflow: -moz-hidden-unscrollable;
+		padding-right: .4em;
+		background: none; /* Match-04 */
+		border: 1px solid transparent; /* Match-05 */
+		/* Firefox < 4 */
+		min-width: 6em;
+		width: 130%;
+		/* Firefox 4-15 */
+		min-width: -moz-calc(0em);
+		width: -moz-calc(100% + 2.4em);
+		/* Firefox 16+ */
+		min-width: calc(0em);
+		width: calc(100% + 2.4em);
+	}
+
+	/* Firefox 35+ that supports hiding the native select can have a proper 100% width, no need for the overflow clip trick */
+	@supports ( mask-type: alpha ) {
+		.custom-select {
+			overflow: visible;
+		}
+		.custom-select select {
+			-moz-appearance: none;
+			width: 100%;
+			padding-right: 2em; /* Match-01 padding-right */
+		}
+	}
+}
+
+/* Firefox focus has odd artifacts around the text, this kills that. See https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-focusring */
+.custom-select select:-moz-focusring {
+	color: transparent;
+	text-shadow: 0 0 0 #000;
+}
+
+/* IE 10/11+ - This hides native dropdown button arrow so it will have the custom appearance. Targeting media query hack via http://browserhacks.com/#hack-28f493d247a12ab654f6c3637f6978d5 - looking for better ways to achieve this targeting */
+/* The second rule removes the odd blue bg color behind the text in the select button in IE 10/11 and sets the text color to match the focus style's - fix via http://stackoverflow.com/questions/17553300/change-ie-background-color-on-unopened-focused-select-box */
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {  
+	.custom-select select::-ms-expand {
+		display: none;
+	}
+	.custom-select select:focus {
+		border-color: #aaa; /* Match-03 */
+	}
+	.custom-select select:focus::-ms-value {
+		background: transparent;
+		color: #222; /* Match-02*/
+	}
+	.custom-select select {
+		padding-right: 2em; /* Match-01 */
+		background: none; /* Match-04 */
+		border: 1px solid transparent; /* Match-05 */
+	}
+	.custom-select::after {
+		display: block;
+	}
+}
+
+
+/*select-css-theme*/
+/* These are the "theme" styles for our button applied via separate button class, style as you like */
+/* Set the background fallback to solid #fff so Firefox renders the <option> list readably. */
+.custom-select {
+	border: 1px solid #bbb;
+	border-radius: .3em;
+	box-shadow: 0 1px 0 1px rgba(0,0,0,.04);
+}
+
+.custom-select select {
+	/* General select styles: change as needed */
+	font-family: sans-serif;
+	font-weight: 700;
+	color: #444;
+	line-height: 1.3;
+	border-radius: .2em;
+}
+/* Hover style */
+.custom-select:hover {
+	border-color: #888;
+}
+/* Focus style */
+.custom-select select:focus {
+	/* It'd be nice to use -webkit-focus-ring-color here but it doesn't work on box-shadow */
+	box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+	box-shadow: 0 0 0 3px -moz-mac-focusring;
+	color: #222; /* Match-02 */
+}
+@supports ( box-shadow: none ) {
+	.custom-select select:focus {
+		outline: none;
+	}
+}
+
+/* Set options to normal weight */
+.custom-select option {
+	font-weight:normal;
+}
+
+.custom-select {
+	background: #f3f3f3; /* Old browsers */
+	background: #fff -webkit-gradient(linear, left top, left bottom, from(#ffffff),to(#e5e5e5));
+	background: #fff linear-gradient(to bottom, #ffffff 0%,#e5e5e5 100%); /* W3C */
+	margin-top: 0.5em;
+}
+
+
+body{
+ /*  border: solid;*/
+   margin: 10px;
+   padding: 1em;
+   height: auto;
+}
+#title{
+  width:100%;
+  height: 50px;
+  margin-bottom: 30px;
+  font-size: 1.2em;
+}
+#content{
+  /*border: solid;*/
+  margin-top: 50px;
+ /* padding: 20px;*/
+}
+#content-title {
+  display: -webkit-flex; /* Safari */
+  display: flex;
+  justify-content:space-between;
+  margin-bottom: 10px;
+}
+
+#content-title p{
+  font-size: 1.8em;
+}
+
+
+#select{
+  display: -webkit-flex; /* Safari */
+  display: flex;
+  justify-content:flex-start;
+
+}
+#select div{
+  margin-right:20px;
+}
+
+
+/*编辑器视频大小*/
+@media (max-width: 640px){
+    .note-video-clip{
+      width: 100%;
+    }
+}
+
+@media (max-width: 450px){
+    .note-video-clip{
+      width: 100%;
+      height: 100%;
+    }
+
+}
