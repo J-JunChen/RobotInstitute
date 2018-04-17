@@ -62,14 +62,6 @@
 			<ul class="consult-menu">
 				<li><a href="index">首页</a></li>
 
-				<li class="menu-item-has-children"><a href="javascript:void(0)">学院概况</a>
-
-					<ul class="sub-menu">
-						<?php
- $institute_overview_string = session('institute_overview_session'); $institute_overview_json = json_decode($institute_overview_string,TRUE); foreach ($institute_overview_json as $key => $value) { echo ' <li><a href="institute_overview?title='.$value['catalog'].'&content='.$value['catalog_table'].'"><i class="icon fa fa-circle-o"></i> '.$value['catalog'].'</a></li>'; } ?>
-					</ul>
-				</li>
-
 
 				<li class="menu-item-has-children"><a href="javascript:void(0)">教学工作</a>
 				   <ul class="sub-menu">
@@ -101,7 +93,7 @@
 				<li><a href="institute_album">学院相册</a></li>
 
 			<!-- 	<li><a href="http://localhost/thinkphp/index.php/Admin/Index/login" target="_blank"><span class="ti-user"></span></a></li> -->
-				<li><a href="login_admin" target="_blank"><span class="ti-user"></span></a></li>
+				<li><a href="login_admin" target="_blank"><i class="ti-user"></i> 登录/注册</a></li>
 
 			</ul><!-- consult-menu -->
 

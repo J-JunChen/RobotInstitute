@@ -486,10 +486,25 @@ class AdminController extends Controller {
     {
         $map['id'] = $_POST['id'];
 
-        $table = M('Temporary');
+        $temperory_table = M('Temporary');
 
-        if($table->where($map)->delete() != null)
+        $temperory_data = $temperory_table->where($map)->field('name,email')->select();
+
+        $data = $temperory_data[0];
+
+        if($temperory_table ->where($map)->delete() != null)
+        {
             echo "删除成功！";
+
+              $message = "<h1>".$data['name'] ."，您好！这是东莞理工学院机器人学院信息审核结果。</h1>
+
+            <h2 style = 'color:blue;'>很遗憾！你没有通过系统管理员的信息审核流程</h2>
+
+            <h2>抱歉，让您久等了,不妨到官网“无账号登录”试试看 <a href = 'www.robotacademy.top'>www.robotacademy.top</a></h2>
+            ";
+
+            $this->send_login_message($data['email'],$message);  //添加用户成功，将发邮件通知
+        }
         else
             echo "抱歉！删除失败！";
 
@@ -512,12 +527,22 @@ class AdminController extends Controller {
          // var_dump($data);
 
          if($login_table->data($data)->add() !=null)
-         {
+         { 
             if($temperory_table->where($map)->delete() !=null)
                echo "添加成功！";
             else
-
                 echo "添加成功,同时注册用户表出现问题";
+
+
+            $message = "<h1>".$data['name'] ."，您好！这是东莞理工学院机器人学院信息审核结果。</h1>
+
+            <h2>恭喜您！你已通过了系统管理员的信息审核流程，成为<span style = 'color:red'>第".$login_table->count()."个</span>正式登录用户</h2>
+
+            <h2>抱歉，让您久等了，赶紧到官网登录试试看 <a href = 'www.robotacademy.top'>www.robotacademy.top</a></h2>
+            ";
+
+
+            $this->send_login_message($data['email'],$message);  //添加用户成功，将发邮件通知
 
          }
            
@@ -529,57 +554,31 @@ class AdminController extends Controller {
     public function send_all_email()
    {
                   
-        //引入PHPMailer的核心文件 使用require_once包含避免出现PHPMailer类重复定义的警告
-
-        //示例化PHPMailer核心类
         $mail = new PHPMailer();
-         
-        //是否启用smtp的debug进行调试 开发环境建议开启 生产环境注释掉即可 默认关闭debug调试模式
+
         // $mail->SMTPDebug = 1;
-         
-        //使用smtp鉴权方式发送邮件，当然你可以选择pop方式 sendmail方式等 本文不做详解
-        //可以参考http://phpmailer.github.io/PHPMailer/当中的详细介绍
+        // 
         $mail->isSMTP();
-        //smtp需要鉴权 这个必须是true
         $mail->SMTPAuth=true;
-        
-        //链接163域名邮箱的服务器地址
         $mail->Host = C('MAIL_Host');
-        //设置使用ssl加密方式登录鉴权
         $mail->SMTPSecure = C('MAIL_SMTPSecure');
-        //设置ssl连接smtp服务器的远程服务器端口号 可选465或587
         $mail->Port = C('MAIL_Port');
-
-        //设置发送的邮件的编码 可选GB2312 我喜欢utf-8 据说utf8在某些客户端收信下会乱码
         $mail->CharSet = C('MAIL_CharSet');
-
-        //设置发件人姓名（昵称） 任意内容，显示在收件人邮件的发件人邮箱地址前的发件人姓名
         $mail->FromName = '机器人学院网站管理员：JunStitch' ;
-
-        //smtp登录的账号 这里填入字符串格式的163号即可
         $mail->Username =C('MAIL_Username');
-
-        //smtp登录的密码 这里填入“独立密码” 若为设置“独立密码”则填入登录qq的密码 建议设置“独立密码”
-        //$mail->Password = '您163的第三方授权密码';
         $mail->Password = C('MAIL_Password');
-
-        //设置发件人邮箱地址 这里填入上述提到的“发件人邮箱”
         $mail->From = C('MAIL_From');
-
-        //邮件正文是否为html编码 注意此处是一个方法 不再是属性 true或false
         $mail->isHTML(true);
 
         $mail->Subject = '机器人学院群发邮件';
 
         $table =M('Login');
-          $data = $table->field('email')->select();
-          // var_dump($data);
+        $data = $table->field('email')->select();
 
-          foreach ($data as $key => $value) {
+            foreach ($data as $key => $value) {
 
              $mail->addAddress($value['email']);
-          } 
-
+        } 
 
           $mail->Body = "<h2>您好！当前邮件为东莞理工学院机器人学院群发邮件</h2>
 
@@ -598,5 +597,43 @@ class AdminController extends Controller {
              echo '群发邮件失败 :(';
           }
     }
+
+
+//添加用户是否通过审核, 将通过邮件给用户反馈信息
+    public function send_login_message($email,$message)
+    {
+        $mail = new PHPMailer();
+         
+        // $mail->SMTPDebug = 1;
+
+        $mail->isSMTP();
+        $mail->SMTPAuth=true;
+        
+        $mail->Host = C('MAIL_Host');
+        $mail->SMTPSecure = C('MAIL_SMTPSecure');
+        $mail->Port = C('MAIL_Port');
+        $mail->CharSet = C('MAIL_CharSet');
+        $mail->FromName = '机器人学院网站管理员：JunStitch' ;
+        $mail->Username =C('MAIL_Username');
+        $mail->Password = C('MAIL_Password');
+        $mail->From = C('MAIL_From');
+        $mail->isHTML(true);
+        $mail->Subject = '机器人学院对注册用户审核邮件';
+
+        $mail->addAddress($email);
+
+        $mail->Body = $message;
+
+        $status = $mail->send();
+
+        //简单的判断与提示信息
+        if($status) {
+         echo '审核邮件发送成功 :)';
+        }else{
+         echo '审核邮件发送失败 :(';
+        }
+    }
+
+
    
 }
