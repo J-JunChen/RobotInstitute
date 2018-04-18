@@ -472,6 +472,9 @@ class IndexController extends Controller {
              elseif (session('type_id') == 5) {  //教学秘书
                  $this->redirect('Secretory/index', '页面跳转中...');
              }  
+              elseif (session('type_id') == 7) {  //助班
+                 $this->redirect('Helper/index', '页面跳转中...');
+             }  
              else{ //系统管理员
                 $this->redirect('Admin/index', '页面跳转中...');
              }
