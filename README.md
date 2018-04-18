@@ -1,8 +1,13 @@
-东莞理工学院机器人学院官网：www.robotacademy.top
+东莞理工学院机器人学院官网：[机器人学院网站](http://www.robotacademy.top)
 ===
 
-技术详解：https://mp.weixin.qq.com/s?__biz=MzI4MjkzNDI4Ng==&mid=2247483872&idx=1&sn=71c3a31f0847ad6894ae3ba1961fb732&chksm=eb932c81dce4a597ae71f0578dd027e37ad96c421ffd85f806509802919650239d79f046095d&scene=0#rd
+
+技术详解：[网站技术吐槽大会，前面大部分是废话，可跳到 “次文” 开始看技术探讨](https://mp.weixin.qq.com/s?__biz=MzI4MjkzNDI4Ng==&mid=2247483872&idx=1&sn=71c3a31f0847ad6894ae3ba1961fb732&chksm=eb932c81dce4a597ae71f0578dd027e37ad96c421ffd85f806509802919650239d79f046095d&scene=0#rd)
 ---
+
+<br> <br>
+
+# 上线后的更新日志：
 
 ## 2018/04/16 晚
 修改主页目录，方便用户登录/注册
