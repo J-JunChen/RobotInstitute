@@ -15,5 +15,21 @@ $(document).ready(function(){
             $('body,html').animate({scrollTop:0},500);
             return false;
         });
+
+        var num = 1;
+
+        $("#qr_code").click(function () {
+            if(num == 1)
+            {
+                $("#qr_code_img").css("display","block");
+                 num = 2; 
+            }
+            else
+            {
+                $("#qr_code_img").css("display","none");
+                 num = 1; 
+            }
+            
+        });
     });
 });

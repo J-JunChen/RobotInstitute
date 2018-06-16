@@ -50,3 +50,24 @@
     min-height: 100px;
 }
 
+
+#qr_code_img{
+    float: left; 
+    width: 150px; 
+    height: 160px; 
+    margin-right: 5px;  
+    background-color: #f39c12; 
+    display: none; 
+
+}
+
+#qr_code_img img{
+    padding: 0 20px;
+}
+
+#qr_code_img h5{
+    text-align: center;
+    margin-top: 2px;
+    color: white; 
+}
+

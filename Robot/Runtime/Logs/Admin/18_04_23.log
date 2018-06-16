@@ -1,0 +1,21 @@
+[ 2018-04-23T18:28:22+08:00 ] 127.0.0.1 /RobotInstitute/index.php/Admin/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011198s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\RobotInstitute\ThinkPHP\Common\functions.php 第 1272 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.207219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.207308s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.038404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.038443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002566s ]
+

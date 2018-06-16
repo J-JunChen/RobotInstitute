@@ -1,0 +1,108 @@
+[ 2018-06-04T07:30:21+08:00 ] 127.0.0.1 /RobotInstitute/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\phpStudy\WWW\RobotInstitute\ThinkPHP\Common\functions.php 第 1272 行.
+SQL: SHOW COLUMNS FROM `robot_institute_overview` [ RunTime:0.0465s ]
+SQL: SELECT * FROM `robot_institute_overview`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0344s ]
+SQL: SELECT * FROM `robot_teaching_work`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `robot_enroll_student`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0331s ]
+SQL: SELECT * FROM `robot_institute_show`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_learning_resources` [ RunTime:0.0284s ]
+SQL: SELECT * FROM `robot_learning_resources`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `robot_editable` [ RunTime:0.0546s ]
+SQL: SELECT * FROM `robot_editable`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work` [ RunTime:0.0036s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0284s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student` [ RunTime:0.0035s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show` [ RunTime:0.0036s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='1' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='2' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_teaching_work` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_enroll_student` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+SQL: SELECT `catalog_id`,`catalog`,`catalog_table` FROM `robot_institute_show` WHERE ( 1=1 AND group_id='3' )  [ RunTime:0.0002s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\RobotInstitute\Robot\Home\Controller\IndexController.class.php 第 135 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\RobotInstitute\Robot\Home\Controller\IndexController.class.php 第 135 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\RobotInstitute\Robot\Home\Controller\IndexController.class.php 第 135 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\RobotInstitute\Robot\Home\Controller\IndexController.class.php 第 135 行.
+SQL: SHOW COLUMNS FROM `robot_teaching_work_teaching_development` [ RunTime:0.0459s ]
+SQL: SELECT * FROM `robot_teaching_work_teaching_development` ORDER BY date desc  [ RunTime:0.0044s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work_major_introduction` [ RunTime:0.0288s ]
+SQL: SELECT * FROM `robot_teaching_work_major_introduction` ORDER BY date desc  [ RunTime:0.0055s ]
+SQL: SHOW COLUMNS FROM `robot_teaching_work_subject_research` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `robot_teaching_work_subject_research` ORDER BY date desc  [ RunTime:0.0003s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\RobotInstitute\Robot\Home\Controller\IndexController.class.php 第 135 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\RobotInstitute\Robot\Home\Controller\IndexController.class.php 第 135 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\RobotInstitute\Robot\Home\Controller\IndexController.class.php 第 135 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\RobotInstitute\Robot\Home\Controller\IndexController.class.php 第 135 行.
+SQL: SHOW COLUMNS FROM `robot_enroll_student_standard` [ RunTime:0.0206s ]
+SQL: SELECT * FROM `robot_enroll_student_standard` ORDER BY date desc  [ RunTime:0.0200s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student_information` [ RunTime:0.0324s ]
+SQL: SELECT * FROM `robot_enroll_student_information` ORDER BY date desc  [ RunTime:0.0177s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\RobotInstitute\Robot\Home\Controller\IndexController.class.php 第 135 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\RobotInstitute\Robot\Home\Controller\IndexController.class.php 第 135 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\RobotInstitute\Robot\Home\Controller\IndexController.class.php 第 135 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\phpStudy\WWW\RobotInstitute\Robot\Home\Controller\IndexController.class.php 第 135 行.
+SQL: SHOW COLUMNS FROM `robot_institute_show_current_events` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `robot_institute_show_current_events` ORDER BY date desc  [ RunTime:0.0184s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show_vacation_training` [ RunTime:0.0327s ]
+SQL: SELECT * FROM `robot_institute_show_vacation_training` ORDER BY date desc  [ RunTime:0.0103s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show_competition_awards` [ RunTime:0.0195s ]
+SQL: SELECT * FROM `robot_institute_show_competition_awards` ORDER BY date desc  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show_visit` [ RunTime:0.0349s ]
+SQL: SELECT * FROM `robot_institute_show_visit` ORDER BY date desc  [ RunTime:0.0107s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show_project_design` [ RunTime:0.0186s ]
+SQL: SELECT * FROM `robot_institute_show_project_design` ORDER BY date desc  [ RunTime:0.0166s ]
+SQL: SHOW COLUMNS FROM `robot_institute_show_subject_competition` [ RunTime:0.0259s ]
+SQL: SELECT * FROM `robot_institute_show_subject_competition` ORDER BY date desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003056s ]
+SQL: SHOW COLUMNS FROM `robot_index` [ RunTime:0.0459s ]
+SQL: SELECT * FROM `robot_index` ORDER BY id desc  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `robot_learning_resources_download` [ RunTime:0.0422s ]
+SQL: SELECT * FROM `robot_learning_resources_download` ORDER BY id desc LIMIT 6   [ RunTime:0.0124s ]
+SQL: SHOW COLUMNS FROM `robot_institute_honor_album` [ RunTime:0.0504s ]
+SQL: SELECT * FROM `robot_institute_honor_album` ORDER BY id desc  [ RunTime:0.0079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.314688s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.314767s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.023012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001355s ]
+
+[ 2018-06-04T07:30:24+08:00 ] 127.0.0.1 /RobotInstitute/enroll_student?title=%E6%8B%9B%E7%94%9F%E8%A6%81%E6%B1%82&content=EnrollStudentStandard&id=15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+SQL: SHOW COLUMNS FROM `robot_enroll_student_standard` [ RunTime:0.0044s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\RobotInstitute\Robot\Runtime\Cache\Home\676c818de87058504130b98535865fc6.php 第 151 行.
+SQL: SELECT * FROM `robot_enroll_student_standard` WHERE ( id=15 )  [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055547s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+

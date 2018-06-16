@@ -28,9 +28,14 @@
 
 <!-- 侧边浮动栏 -->
 <div id = "side_float">
+	<div  id="qr_code_img"><h5>学院公众号</h5><img src="__PUBLIC__/qr_code.jpg"></div>
+
 	<button id="back-to-top"><a href="javascript:void(0)"><i class="fa fa-2x fa-chevron-up" aria-hidden="true"></i></a></button>
+
 	
 	<button class="md-trigger" data-modal="modal-4"><a href="javascript:void(0)"><i class="fa fa-2x fa-envelope-o" aria-hidden="true" ></i></a></button>	
+
+	<button id="qr_code"><a href="javascript:void(0)"><i class="fa fa-2x fa-qrcode" aria-hidden="true"></i></a></button>
 </div>
 
 <!-- 意见反馈model -->
