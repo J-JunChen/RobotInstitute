@@ -1,4 +1,4 @@
-东莞理工学院机器人学院官网：[机器人学院网站](http://www.robotacademy.top)
+东莞理工学院机器人学院官网：[机器人学院网站](http://robot.dgut.edu.cn/)
 ===
 
 
