@@ -1,6 +1,6 @@
 东莞理工学院机器人学院官网：[机器人学院网站](http://robot.dgut.edu.cn/)
 ===
-由于缺少相关人员维护，已下架。
+【注：由于学院缺少运维人员，网站已下架！】
 
 涉及技术：PHP + MySQL +  JQuery + ajax + PHPMailer
 
